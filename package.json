@@ -1,5 +1,5 @@
 {
-  "name": "reverse-sentence",
+  "name": "@ascent2009/reverse-sentence",
   "version": "1.0.0",
   "description": "reverse-sentence",
   "main": "index.js",
